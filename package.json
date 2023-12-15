@@ -1,0 +1,10 @@
+{
+  "name": "custom-menubar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^27.0.0"
+  }
+}
